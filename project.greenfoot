@@ -1,0 +1,20 @@
+#Greenfoot properties
+#Fri Mar 31 08:19:27 PDT 2017
+class.BlueDestroyer.superclass=BlueShip
+project.charset=UTF-8
+class.BlueShip.superclass=Ship
+class.Bullet.image=Bullet.png
+class.Ship.superclass=greenfoot.Actor
+class.Vboom.superclass=Boom
+version=2.7.1
+class.Boom.superclass=greenfoot.Actor
+world.lastInstantiated=Ocean
+class.Hboom.image=hboom.png
+class.Vboom.image=vboom.png
+class.BulletActions.superclass=greenfoot.Actor
+class.ShipActions.superclass=
+class.Ocean.superclass=greenfoot.World
+class.Ocean.image=ocean.jpg
+class.Hboom.superclass=Boom
+class.Bullet.superclass=greenfoot.Actor
+class.BlueDestroyer.image=bluedestroyer.png
